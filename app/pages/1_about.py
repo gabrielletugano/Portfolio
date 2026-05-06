@@ -207,19 +207,26 @@ st.markdown("""
     <h2 class="section-title">My values.</h2>
     <div class="values-grid">
         <div class="value-card">
-            <div class="value-icon">◎</div>
+            <div class="value-icon">🌳</div>
             <div class="value-title">Growth</div>
-            <div class="value-desc">[Desc]</div>
+            <div class="value-desc">I'd take a hard redirect over empty validation any day. 
+            Honest feedback is how I actually get better and being told my process is wrong is far 
+            more valuable to me than being left to repeat it. I'd rather someone take the time to 
+            correct me than spare my feelings at the expense of my growth.</div>
         </div>
         <div class="value-card">
-            <div class="value-icon">◈</div>
+            <div class="value-icon">👩🏻‍⚖️</div>
             <div class="value-title">Integrity</div>
-            <div class="value-desc">[Desc]</div>
+            <div class="value-desc">Integrity means owning your mistakes before they become 
+            someone else's problem. I'd rather raise my hand, admit I got it wrong, and fix it 
+            together than let pride get in the way of the team moving forward.</div>
         </div>
         <div class="value-card">
-            <div class="value-icon">⟡</div>
+            <div class="value-icon">🕊️</div>
             <div class="value-title">Gratitude</div>
-            <div class="value-desc">[Desc]</div>
+            <div class="value-desc">Not everyone gets to do what they love,
+             and I don't take that lightly. Choosing 'I get to' over 'I have to' is how 
+             I stay grounded in what actually matters.</div>
         </div>
     </div>
 </div>
@@ -232,7 +239,11 @@ st.markdown("""
 <div style="padding: 0 2rem;">
     <div class="section-label">Outside of Work</div>
     <h2 class="section-title">A few of my favorite things.</h2>
-    <p class="body-text">[Write a sentence or two about what I enjoy outside of school and work]</p>
+    <p class="body-text">When I'm not in class or off the clock, I love pursing hobbies that push me 
+    both physically and mentally. You might find me hiking a trail in Acadia, attempting a new recipe 
+    in the kitchen, or finding a new playlist to move to at the gym. I'm someone who's always looking 
+    for the next thing to do, the next place to go, or the next skill to pick up. I think it's safe 
+    to say staying still doesn't really suit me.</p>
     <div class="hobbies-strip">
         <span class="hobby-tag">Weightlifting</span>
         <span class="hobby-tag">Running</span>
@@ -251,11 +262,18 @@ st.markdown("""
     <div class="section-label">Looking Ahead</div>
     <h2 class="section-title">Where I'm headed.</h2>
     <p class="body-text">
-        [Short-term career goals — the kind of roles, industries,
-        or problems I want to work on after graduation.]
+        After graduation, I want to pursue a career in internal auditing, but I don't want to stop there. 
+        My data science background gives me a lens that most auditors don't have, and I want to use it. 
+        Projects like AuditLens, where I built a tool to flag fraudulent and suspicious transactions, 
+        showed me how much room there is to make the audit process smarter and more automated. 
+        That's the problem I want to keep working on.
     </p>
     <p class="body-text">
-        [Long-term vision — where I see myself in 5–10 years.]
+        Five to ten years from now, I'm keeping my options open on purpose. I want to spend my early 
+        career exploring the industry, following what excites me, and letting my experiences shape 
+        where I end up — rather than locking myself into a plan before I've even fully started. 
+        I'd rather stay curious and let the industry surprise me than commit to a path before I've 
+        had the chance to truly explore it.
     </p>
 </div>
 """, unsafe_allow_html=True)
