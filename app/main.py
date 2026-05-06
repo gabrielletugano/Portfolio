@@ -223,7 +223,7 @@ with st.sidebar:
         <div style="font-size:0.7rem; letter-spacing:0.18em; text-transform:uppercase;
                     color:#2A6CB0; margin-bottom:0.4rem;">Portfolio</div>
         <div style="font-family:'DM Serif Display',serif; font-size:1.3rem;
-                    line-height:1.2; color:#F7F3EE;">Gabrielle<br>Tugano</div>
+                    line-height:1.2; color:#F7F3EE;">Gabrielle Tugano</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -251,7 +251,7 @@ st.markdown("""
         <span class="stat-label">Degree in Progress</span>
     </div>
     <div class="stat-item">
-        <span class="stat-number">2+</span>
+        <span class="stat-number">2</span>
         <span class="stat-label">Co-ops Completed</span>
     </div>
     <div class="stat-item">

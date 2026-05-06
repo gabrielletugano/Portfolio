@@ -176,11 +176,20 @@ with col1:
         <div class="section-label">Introduction</div>
         <h2 class="section-title">Hi, I'm Gabrielle.</h2>
         <p class="body-text">
-            [Intro paragraph]
+            I'm a fourth-year Northeastern University student studying Data Science and 
+            Business Administration with a Concentration in Accounting. During my time at Northeastern, 
+            I've had the privilege to explore both sides of my combined major through my co-ops at 
+            Fresenius Medical Care and The Boston Beer Company.
         </p>
         <p class="body-text">
-            [my time at Northeastern,
-            your co-op experiences, or what I've learned along the way.]
+            At Fresenius, I worked as a full-stack developer, building applications for nurses to 
+            manage treatment sheets, end-of-shift reports, and volume hypertension reports. 
+            This fall, I'll be joining The Boston Beer Company as an Internal Audit co-op. 
+            What I've loved most about both experiences is the freedom to go beyond the job description
+             — each team gave me the space to explore the industry on my own terms, and I got to see 
+             firsthand how a data science and accounting background can speak to both technical and 
+             business needs at once. That intersection is what I find most exciting, and long-term, 
+             I hope to use it to help make the audit process smarter and more efficient.
         </p>
     </div>
     """, unsafe_allow_html=True)
@@ -246,8 +255,7 @@ st.markdown("""
         or problems I want to work on after graduation.]
     </p>
     <p class="body-text">
-        [Long-term vision — where do I see yourself in 5–10 years?
-        What impact do I want to make?]
+        [Long-term vision — where I see myself in 5–10 years.]
     </p>
 </div>
 """, unsafe_allow_html=True)
