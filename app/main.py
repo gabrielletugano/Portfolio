@@ -255,7 +255,7 @@ st.markdown("""
         <span class="stat-label">Co-ops Completed</span>
     </div>
     <div class="stat-item">
-        <span class="stat-number">NU</span>
+        <span class="stat-number">NU '27</span>
         <span class="stat-label">Northeastern University</span>
     </div>
     <div class="stat-item">
