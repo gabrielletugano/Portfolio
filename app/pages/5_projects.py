@@ -113,40 +113,45 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 projects = [
     {
         "title": "AuditLens",
-        "blurb": "an anomaly detection tool that analyzes over 284,000 credit card transactions "
-                 "to automatically flag suspicious activity, revealing "
-                 "the riskiest transactions so they can be reviewed. I built it to explore how "
-                 "data science can make the audit process smarter and more scalable.",
+        "blurb": "Data-driven clarity on the audit process.",
         "tags": ["Python", "Data Analysis", "Audit"],
         "github": "https://github.com/gabrielletugano/AuditLens",
         "status": "Complete",
-        "overview": "[Detailed overview of the project — what problem it solves, who it's for, and how it works.]",
+        "overview": "An anomaly detection tool that analyzes over 284,000 credit card transactions "
+                 "to automatically flag suspicious activity, revealing "
+                 "the riskiest transactions so they can be reviewed. I built it to explore how "
+                 "data science can make the audit process smarter and more scalable.",
         "challenges": "[Describe 1–2 challenges you ran into while building this and how you approached them.]",
         "lessons": "[What did you learn from this project? Technical skills, problem-solving approaches, etc.]",
         "next": "[What would you add or improve if you kept working on this?]",
     },
     {
         "title": "Breathe Easy",
-        "blurb": "a multi-source data pipeline and interactive dashboard that pulls from five public datasets: "
+        "blurb": "Clearing the air on air pollution and public health, one zipcode at a time.",
+        "tags": ["[Tech 1]", "[Tech 2]", "[Tech 3]"],
+        "github": "https://github.khoury.northeastern.edu/ilannalam/ds3500_final_project",
+        "status": "In Progress",
+        "overview": "A multi-source data pipeline and interactive dashboard that pulls from five public datasets: "
                  "EPA, NOAA, OpenAQ, CDC, and the US Census — to explore how air quality and weather patterns "
                  "connect to respiratory health outcomes across four major East Coast cities. I built it to "
                  "practice building real-world data pipelines that integrate messy, disparate sources into "
                  "something actually usable and visually digestible.",
-        "tags": ["[Tech 1]", "[Tech 2]", "[Tech 3]"],
-        "github": "https://github.khoury.northeastern.edu/ilannalam/ds3500_final_project",
-        "status": "In Progress",
-        "overview": "[Detailed overview of the project.]",
         "challenges": "[Challenges you encountered.]",
         "lessons": "[What you learned.]",
         "next": "[Future improvements.]",
     },
     {
-        "title": "[Project 3 Title]",
-        "blurb": "[Short description of what this project does and why you built it.]",
+        "title": "Where2Live",
+        "blurb": "Find a neighborhood on your terms.",
         "tags": ["[Tech 1]", "[Tech 2]", "[Tech 3]"],
-        "github": "https://github.com/gabrielletugano/[repo]",
+        "github": "https://github.com/gabrielletugano/Where2Live",
         "status": "In Progress",
-        "overview": "[Detailed overview of the project.]",
+        "overview": "Boston has 24 distinct neighborhoods, each with a totally different feel, but there's no "
+                 "easy way to compare them side by side. I built Where2Live to change that. It pulls real "
+                 "data on transit access, safety, green space, and restaurant density to score every "
+                 "neighborhood and visualize it on an interactive map. The best part: you control the "
+                 "weights, so the index reflects your priorities, not someone else's idea of a good "
+                 "neighborhood.",
         "challenges": "[Challenges you encountered.]",
         "lessons": "[What you learned.]",
         "next": "[Future improvements.]",
