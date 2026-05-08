@@ -128,7 +128,7 @@ projects = [
     {
         "title": "Breathe Easy",
         "blurb": "Clearing the air on air pollution and public health, one zipcode at a time.",
-        "tags": ["[Tech 1]", "[Tech 2]", "[Tech 3]"],
+        "tags": ["Python", "Public Health", "Data Visualization"],
         "github": "https://github.khoury.northeastern.edu/ilannalam/ds3500_final_project",
         "status": "In Progress",
         "overview": "A multi-source data pipeline and interactive dashboard that pulls from five public datasets: "
@@ -143,7 +143,7 @@ projects = [
     {
         "title": "Where2Live",
         "blurb": "Find a neighborhood on your terms.",
-        "tags": ["[Tech 1]", "[Tech 2]", "[Tech 3]"],
+        "tags": ["Python", "Geospatial", "Streamlit"],
         "github": "https://github.com/gabrielletugano/Where2Live",
         "status": "In Progress",
         "overview": "Boston has 24 distinct neighborhoods, each with a totally different feel, but there's no "
