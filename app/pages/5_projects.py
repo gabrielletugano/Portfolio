@@ -156,6 +156,21 @@ projects = [
         "lessons": "[What you learned.]",
         "next": "[Future improvements.]",
     },
+    {
+        "title": "Boston Restaurant Roulette",
+        "blurb": "Spin it, Eat it, Love it",
+        "tags": ["Python","Flask", "FoursquareAPI"],
+        "github": "https://github.com/gabrielletugano/Boston-Restaurant-Roulette/tree/main",
+        "status": "In Progress",
+        "overview": "Boston Restaurant Roulette is a Flask web app that takes the stress out of "
+                    "deciding where to eat. Users input their mood, budget, and neighborhood, "
+                    "hit spin, and get a randomly selected Boston restaurant pulled live from the "
+                    "Foursquare Places API. Built with Python, Flask, and vanilla HTML/CSS/JS — "
+                    "no frameworks, no databases, just a clean and fun way to discover your next meal.",
+        "challenges": "[Challenges you encountered.]",
+        "lessons": "[What you learned.]",
+        "next": "[Future improvements.]",
+    }
 ]
 
 # ── Render projects ────────────────────────────────────────────────────────────
