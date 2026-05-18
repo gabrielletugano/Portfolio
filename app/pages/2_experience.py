@@ -130,9 +130,9 @@ timeline_entry(
     role="Internal Audit",
     company="Boston Beer Company · Boston, MA",
     bullets=[
-        "[Describe a key responsibility or achievement.]",
-        "[Describe a key responsibility or achievement.]",
-        "[Describe a key responsibility or achievement.]",
+        "Analyzed financial and operational data to support audit testing and reporting procedures",
+        "Evaluated internal controls and identified process improvement opportunities to reduce operational risk",
+        "Conducted variance analysis and reconciliations to identify discrepancies and control gaps",
     ],
-    tags=["[Skill 1]", "[Skill 2]", "[Skill 3]"]
+    tags=["Audit & SOX Compliance", "Financial Data Analysis (Excel / SQL)", "Internal Controls & Risk Analysis]"]
 )

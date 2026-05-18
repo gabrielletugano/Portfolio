@@ -67,9 +67,17 @@ section[data-testid="stMainBlockContainer"] {
     font-family: 'DM Serif Display', serif;
     font-size: 2.8rem;
     font-weight: 400;
-    color: var(--ink);
+    color: var(--navy) !important;
     line-height: 1.1;
     margin: 0;
+}
+
+/* Force h1 override for Streamlit's default heading styles */
+[data-testid="stMarkdownContainer"] h1,
+.stMarkdown h1 {
+    font-family: 'DM Serif Display', serif !important;
+    color: var(--navy) !important;
+    font-weight: 400 !important;
 }
 
 /* ── Blog cards ── */
@@ -200,7 +208,7 @@ with st.sidebar:
     st.page_link("pages/4_skills.py",     label="Skills")
     st.page_link("pages/5_projects.py",   label="Projects")
     st.page_link("pages/6_contact.py",    label="Contact")
-    st.page_link("pages/8_blog.py",       label="Blog")
+    st.page_link("pages/7_blog.py",       label="Blog")
 
 # ── Load posts ─────────────────────────────────────────────────────────────────
 posts = load_posts()
